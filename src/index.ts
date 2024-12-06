@@ -1,0 +1,1 @@
+export {TiledMapFactory as default} from './map/factories/MapFactory'
